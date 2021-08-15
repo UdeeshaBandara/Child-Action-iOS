@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LGSideMenuController",
+        "repositoryURL": "https://github.com/Friend-LGA/LGSideMenuController.git",
+        "state": {
+          "branch": null,
+          "revision": "0bc42f704fb2b60cd54b13f813a0e4e6875f569a",
+          "version": "3.1.2"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
